@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **baduwalpankaj@gmail.com**
 
-- 📄 Know about my experiences [My Resume](My Resume)
+- 📄 Know about my experiences :-https://docs.google.com/document/d/1HNEdoK5aMXsVaxA3pTOfMOhKtpVauinL/edit
 
 - ⚡ Fun fact **I can debug for hours but spend more time designing the perfect UI than fixing bugs! 😄**
 
