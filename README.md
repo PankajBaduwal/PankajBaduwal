@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pankaj Baduwal</h1>
 <h3 align="center">ML & Web Dev Enthusiast 🚀 Building real-world projects | 🔧 Python | JS | React | Streamlit | SQL</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajbaduwal&label=Profile%20views&color=0e75b6&style=flat" alt="pankajbaduwal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajbaduwal" alt="pankajbaduwal" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/pankajbaduwal" target="blank"><img src="https://img.shields.io/twitter/follow/pankajbaduwal?logo=twitter&style=for-the-badge" alt="pankajbaduwal" /></a> </p>
 
 - 🔭 I’m currently working on Zerodha clone:- A responsive frontend and backend version of the popular trading platform.)
 
