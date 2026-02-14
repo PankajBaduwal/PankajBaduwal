@@ -4,7 +4,6 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently building a **Zerodha Clone (Full Stack Trading Platform)**
 - 🌱 Learning **Advanced React, Next.js & Machine Learning**
 - 👯 Open to collaborate on **MERN Stack & AI Projects**
 - 💬 Ask me about **React, Backend, Computer Vision, AI/ML**
