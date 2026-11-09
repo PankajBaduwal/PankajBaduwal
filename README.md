@@ -1,44 +1,48 @@
-<h1 align="center">Hi 👋, I'm Pankaj Baduwal</h1>
-<h3 align="center">🚀 MERN Stack Developer | 🤖 ML Enthusiast | Building Real-World Projects</h3>
+## Pankaj Baduwal
 
----
+Full stack MERN developer working on Generative AI applications. B.Tech IT student at KPR Institute of Engineering and Technology, Coimbatore (Honors in AI & ML).
 
-### 👨‍💻 About Me
-- 🌱 Learning **Advanced React, Next.js & Machine Learning**
-- 👯 Open to collaborate on **MERN Stack & AI Projects**
-- 💬 Ask me about **React, Backend, Computer Vision, AI/ML**
-- 📫 Reach me at: **baduwalpankaj@gmail.com**
-- ⚡ Fun fact: I can debug for hours but spend more time perfecting UI 😄
+[Portfolio](https://pankajbaduwal.vercel.app) · [LinkedIn](https://linkedin.com/in/pankaj-baduwal-408759281) · [LeetCode](https://leetcode.com/u/pEVxkCZJyX/) · [Email](mailto:baduwalpankaj@gmail.com)
 
----
+Currently looking for internship opportunities.
 
-### 🛠️ Tech Stack
+### What I work on
 
-**Frontend:**  
-HTML | CSS | JavaScript | React | Next.js | Tailwind  
+I build full stack web apps with the MERN stack and add AI to them where it is useful: LLM chatbots, RAG pipelines and LangChain workflows. Before college I spent a few years in IT support and system administration in Nepal, so I care about software that is reliable and easy to use.
 
-**Backend:**  
-Node.js | Express | MongoDB | SQL  
+### Selected projects
 
-**Machine Learning:**  
-Python | scikit-learn | TensorFlow | OpenCV  
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [HireSphere](https://github.com/PankajBaduwal/HireSphere) | AI recruitment platform: candidate matching, resume parsing, proctored assessments | React, Node.js, MongoDB, Gemini API |
+| [CampusConnect](https://github.com/PankajBaduwal/CampusConnect-) | Student social platform with posts, polls, anonymous Q&A and a campus chatbot | Node.js, Express, MongoDB, EJS |
+| [InterviewPreparationAI](https://github.com/PankajBaduwal/-InterviewPreparationAI-) | Tailored interview questions, match score, skill-gap analysis and a study roadmap | GPT-4.1 |
+| [AAPAGPT](https://github.com/PankajBaduwal/AAPAGPT) | ChatGPT-style conversational app with saved chat history | MERN, OpenAI API |
+| [HerbSphere](https://github.com/PankajBaduwal/Herbsphere) | Searchable medicinal plant guide, organised by use case | HTML, CSS, JavaScript |
 
-**Tools:**  
-Git | Postman | Firebase | AWS  
+### Tech
 
----
+**Languages:** JavaScript, Python, Java, C<br>
+**Web:** React, Node.js, Express, REST APIs, HTML, CSS<br>
+**Databases:** MongoDB, SQL<br>
+**AI:** LangChain, OpenAI and Gemini APIs, RAG, prompt engineering<br>
+**Tools:** Git, GitHub, Postman, AWS<br>
+**Learning:** Docker, Kubernetes, CI/CD
 
-### 🌐 Connect With Me
+### Experience
+
+- **Web Development Intern**, MotionCut (remote), Jun – Sep 2025
+- **Computer Operator**, Synnet International, Nepal, 2021 – 2023
+- **Computer Trainee (OJT)**, IT Hub Nepalgunj, Nepal, 2019 – 2022
+
+### Recognition
+
+- 1st place, KPRIET International Student Council Hackathon
+- Top 25 finalist, Intel GenAI National Hackathon
+- 3rd place, Science Day Tech Showcase (Solar IoT)
+- Certifications: Cisco CCNA (3 courses), AWS Academy Cloud Foundations, MongoDB for Students
+
 <p align="left">
-<a href="https://linkedin.com/in/pankajbaduwal">LinkedIn</a> • 
-<a href="https://twitter.com/pankajbaduwal">Twitter</a> • 
-<a href="https://kaggle.com/pankajbaduwal">Kaggle</a>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pankajbaduwal&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajbaduwal&layout=compact" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=PankajBaduwal&show_icons=true&hide_border=true&theme=transparent&hide_rank=true" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajBaduwal&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 </p>
